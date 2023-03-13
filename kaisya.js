@@ -1071,4 +1071,4 @@ ZyX
 くちなわ
 PRINCIPIA`
 
-export {str}
+window.kaisyaNames = str;
